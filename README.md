@@ -6,7 +6,7 @@ All files are updated regularly by the NTC Staff to keep up with any changes to 
 
 You are required to FINISH your mission file before handing it off to an Officer. If the scenario is not considered finished, your request will be denied until finished to a satisfactory degree.
 
-# TO DO BEFORE YOU SEND TO AN OFFICER
+# How to use
 Create a mission that you like. Make sure that vehicles have ample room or they may spawn in buildings. Save without spaces (use underscores)
 
 Write a briefing on the NTC Steam group following the standard procedure including a date or "TBD" if the date is not yet planned.
