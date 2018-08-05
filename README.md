@@ -1,8 +1,7 @@
 # NTC-Community-Operations
 Everything you need to make a community operation for the NTC Milsim community.
 
-READ THIS BEFORE DOWNLOADING - 
-All files are updated regularly by the NTC Staff to keep up with any changes to scripts and loadouts. Please check with a staff member that the files are UP TO DATE.
+READ THIS BEFORE DOWNLOADING - All files are updated regularly by the NTC Staff to keep up with any changes to scripts and loadouts. Please check with a staff member that the files are UP TO DATE.
 
 You are required to FINISH your mission file before handing it off to an Officer. If the scenario is not considered finished, your request will be denied until finished to a satisfactory degree.
 
