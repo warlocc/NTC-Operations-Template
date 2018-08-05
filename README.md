@@ -1,5 +1,5 @@
-# NTC-Scripts
-Scripts and useful files for the NTC MilSim community.
+# NTC-Community-Operations
+Everything you need to make a community operation for the NTC Milsim community.
 
 READ THIS BEFORE DOWNLOADING OR EDITING - 
 All files are updated regularly by the NTC Staff to keep up with any changes to scripts and loadouts. Please check with a staff member that the files are UP TO DATE.
